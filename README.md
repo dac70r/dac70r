@@ -1,5 +1,5 @@
-# Hi there! Welcome to my Github. 
-# Feel free to drop comments and leave me a message!
+# Hi there! Welcome to my Github.
+Feel free to drop comments and leave me a message!
 
 - 👋 Hi, I’m Dennis 
 - 👀 I’m interested in technology and business topics. 
